@@ -10,6 +10,8 @@ All data were anonymized following the best international practices and recommen
 
 ![corona](https://user-images.githubusercontent.com/32513366/77915112-4a31c980-726d-11ea-9504-3ee4ab0c7493.png)
 
+*Image Source*: [reddit Coronavírus Brasil (COVID-19)](https://www.reddit.com/r/coronabr/)
+
 ## Tasks submitted
 
 :heavy_check_mark: **Task 1** - Predict confirmed COVID-19 cases among suspected cases.
