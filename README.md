@@ -18,6 +18,7 @@ All data were anonymized following the best international practices and recommen
 
 :heavy_check_mark: **Task 2** - Predict admission to general ward, semi-intensive unit or intensive care unit among confirmed COVID-19 cases.
 
+The final solution can be found [here](https://github.com/KaikeWesleyReis/albert-einstein-COVID-19-challenge/blob/master/A%20second%20end-to-end%20solution%20for%20covid-19%20.ipynb), the other [notebook](https://github.com/KaikeWesleyReis/albert-einstein-COVID-19-challenge/blob/master/COVID-19_%20an_end-to-end_solution_for_both_tasks.ipynb) was the first version!
 ## Links
 [**Original dataset**](https://www.kaggle.com/einsteindata4u/covid19)
 
